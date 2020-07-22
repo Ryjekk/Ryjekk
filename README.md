@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I am Inuk 👋
+<p style="text-align: center;"> and </p>
 <!--
 **Ryjekk/Ryjekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
