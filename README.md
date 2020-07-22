@@ -7,9 +7,9 @@
 
 <h3 align="center"> Working on </h3>
 
-🇩🇰 🔥 [CareerToGo](https://www.careertogo.dk/) - Building Career Support Website
+🇩🇰 🔥 [CareerToGo](https://www.careertogo.dk/) - Building Job Bank / Career Platform
 
-🇮🇸 🖤 [EtherealTattoo](https://github.com/Ryjekk) - Website for new Tattoo Shop in Reykjavik
+🇮🇸 🖤 [EtherealTattoo](https://www.instagram.com/ethereal.tattoo/) - Website for Amazing Tattoo Shop in Reykjavik
 
 🇮🇸 🙋‍♂️ [InukRy](https://ryjewsky.netlify.app/) - I'm rebuilding my portfolio to modernize the code structure with Vue JS
 
