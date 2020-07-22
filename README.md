@@ -7,7 +7,7 @@
 
 <h3 align="center"> Working on </h3>
 
-🇩🇰 🔥 [CareerToGo](https://www.careertogo.dk/) - Building Job Bank / Career Platform
+🇩🇰 🔥 [CareerToGo](https://www.careertogo.dk/) - Building Job Bank / Career Platform for youth
 
 🇮🇸 🖤 [EtherealTattoo](https://www.instagram.com/ethereal.tattoo/) - Website for Amazing Tattoo Shop in Reykjavik
 
