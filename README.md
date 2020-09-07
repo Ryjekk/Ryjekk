@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 </h1>
-<p align="center"> I'm Inuk a Front End Developer based in Reykjavik 🇮🇸 / Copenhagen 🇩🇰. <br> Currently working at CSE in Copenhagen for Startup - CareerToGo. <br> Soon student at <<salt />salt/> Stockholm 🇸🇪 </p>
+<p align="center"> I'm Inuk a Front End Developer based in Reykjavik 🇮🇸 / Copenhagen 🇩🇰. <br> Currently working at CSE in Copenhagen for Startup - CareerToGo. <br> Student at <<salt />salt/> Stockholm 🇸🇪 </p>
 
 </br>
 
