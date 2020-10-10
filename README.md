@@ -9,7 +9,7 @@
 
 🇩🇰 🔥 [CareerToGo](https://www.careertogo.dk/) - Building Job Bank / Career Platform for youth
 
-🇮🇸 🖤 [Aura Reykjavik](https://ethtest.netlify.app/) - Website for Amazing Tattoo Shop in Reykjavik [Test version]
+🇮🇸 🖤 [Aura Reykjavik](https://www.aurareykjavik.com/) - Website for Amazing Tattoo Shop in Reykjavik [Test version]
 
 🇮🇸 🙋‍♂️ [InukRy](https://ryjewsky.netlify.app/) - I'm rebuilding my portfolio to modernize the code structure with Vue JS
 
