@@ -1,5 +1,5 @@
 # Hi there, I'm Inuk 👋🏻
-I'm a Full Stack Developer based in Oslo. Currently I'm working as a consultant at <strong>Salt<strong>. Previously worked at CareerToGo as a Front End Developer in Copenhagen.
+I'm a Software Developer based in Oslo. Currently I'm working as a Full Stack consultant at <strong>Salt<strong>. Previously worked at CareerToGo as a Front End Developer in Copenhagen.
 
 ## Current Projects <br/>
 > 🇮🇸 [InukRy](https://ryjewsky.netlify.app/) - I'm rebuilding my portfolio to modernize the code structure with Vue JS
