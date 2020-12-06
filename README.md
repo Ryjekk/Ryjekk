@@ -11,7 +11,7 @@ I'm a Software Developer based in Oslo. Currently I'm working as a Full Stack co
 ## Hobbies
 ☕️ Coffee Enthusiast <br/>
 📷 Photography <br/>
-🎧 Music
+🎧 Music 
 
 ## Connect with Me
 - [Portfolio](https://ryjewsky.netlify.app/) <br/>
