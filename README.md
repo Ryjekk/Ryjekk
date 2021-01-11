@@ -2,11 +2,11 @@
 I'm a Software Developer based in Oslo. Currently I'm working as a Full Stack consultant at <strong>Salt<strong>. Previously worked at CareerToGo as a Front End Developer in Copenhagen.
 
 ## Current Projects <br/>
+> 🇳🇴 [RePack](https://www.repack.no/) - Building Battery Cloud Service 
+
 > 🇮🇸 [InukRy](https://ryjewsky.netlify.app/) - I'm rebuilding my portfolio to modernize the code structure with Vue JS
 
 > 🇮🇸 [Aura Reykjavik](https://www.aurareykjavik.com/) - Website for Amazing Tattoo Shop in Reykjavik
-
-> 🇩🇰 [CareerToGo](https://www.careertogo.dk/) - Building Job Bank / Career Platform for youth 
 
 ## Hobbies
 ☕️ Coffee Enthusiast <br/>
