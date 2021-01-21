@@ -1,5 +1,5 @@
 # Hi there, I'm Inuk 👋🏻
-I'm a Software Developer based in Oslo. Currently I'm working as a Full Stack consultant at <strong>Salt<strong>. Previously worked at CareerToGo as a Front End Developer in Copenhagen.
+I'm a Software Developer based in Oslo. Currently I'm working as a Full Stack consultant at <strong>Salt<strong>. Previously worked at CareerToGo as a Front End Developer in Copenhagen. Now I am working as a FullStack Consultant Developer for Salt Oslo.
 
 ## Current Projects <br/>
 > 🇳🇴 [RePack](https://www.repack.no/) - Building Battery Cloud Service 
