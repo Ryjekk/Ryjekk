@@ -4,7 +4,7 @@ I'm a Software Developer based in Oslo. Currently I'm working as a Full Stack co
 ## Current Projects <br/>
 > 🇳🇴 [RePack](https://www.repack.no/) - Building Battery Cloud Service 
 
-> 🇮🇸 [InukRy](https://ryjewsky.netlify.app/) - I'm rebuilding my portfolio to modernize the code structure with Vue JS
+> 🇮🇸 [InukRy](https://ryjewsky.netlify.app/) - I'm rebuilding my portfolio to modernize the code structure with Gasby
 
 > 🇮🇸 [Aura Reykjavik](https://www.aurareykjavik.com/) - Website for Amazing Tattoo Shop in Reykjavik
 
