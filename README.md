@@ -1,5 +1,5 @@
 # Hi there, I'm Inuk 👋🏻
-I'm a Software Developer based in Oslo. Currently I'm working as a Full Stack consultant at <strong>Salt<strong>. Previously worked at CareerToGo as a Front End Developer in Copenhagen. Now I am working as a FullStack Consultant Developer for Salt Oslo.
+I'm a Software Developer based in Oslo. Currently I'm working as a Full Stack consultant at <strong>Salt</strong>. <br/> Previously worked at CareerToGo based in Copenhagen as a Front End Developer. <br/> Now I am working as a FullStack Consultant for Salt Oslo.
 
 ## Current Projects <br/>
 > 🇮🇸 [Aura Reykjavik](https://www.aurareykjavik.com/) - Website for Amazing Tattoo Shop in Reykjavik
