@@ -4,7 +4,7 @@ I'm a Software Developer based in Oslo. Currently I'm working as a Full Stack co
 ## Current Projects <br/>
 > 🇮🇸 [Aura Reykjavik](https://www.aurareykjavik.com/) - Website for Amazing Tattoo Shop in Reykjavik
 
-## Past Projects <br/>
+## Recent Projects <br/>
 > 🇳🇴 [RePack](https://www.repack.no/) - Building Battery Cloud Service 
 
 > 🇮🇸 [InukRy](https://ryjewsky.netlify.app/) - I'm rebuilding my portfolio to modernize the code structure with Gasby
@@ -15,6 +15,6 @@ I'm a Software Developer based in Oslo. Currently I'm working as a Full Stack co
 🎧 Music 
 
 ## Connect with Me
-- [Portfolio](https://ryjewsky.netlify.app/) <br/>
+- [Portfolio](https://www.ryjewsky.com/) <br/>
 - [Instagram](https://www.instagram.com/ryjewsky/) <br/>
 - [Linkedin](https://www.linkedin.com/in/marcin-inuk-ryjewski-793505198/?originalSubdomain=is)
